@@ -1,6 +1,6 @@
 {
-    "name": "astroveda",
-    "short_name": "astroveda",
+    "name": "epweb",
+    "short_name": "epweb",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
